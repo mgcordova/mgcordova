@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Manuel, an <a href="https://www.linkedin.com/in/manuel-cordova-470617204/">IT Specialist</a>☺</h1>
 
-<!--
-**mgcordova/mgcordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/mgcordova/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/mgcordova/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/mgcordova/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/manniie/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/manniie/azure-network-protocols)
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine](https://github.com/mgcordova/setting-up-a-vpn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Manuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/manuel-cordova-470617204/
