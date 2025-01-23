@@ -16,4 +16,4 @@
 
 [<img align="left" alt="Manuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/manuel-cordova-470617204/
+[linkedin]: https://www.linkedin.com/in/mgcordovajr/
