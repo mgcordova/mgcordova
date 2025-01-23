@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/mgcordova/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mgcordova/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/mgcordova/configure-ad)
+  - [Setting Up Active Directory within Azure VMs](https://github.com/mgcordova/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/mgcordova/azure-network-protocols)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine](https://github.com/mgcordova/setting-up-a-vpn)
