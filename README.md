@@ -8,7 +8,9 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mgcordova/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory within Azure VMs](https://github.com/mgcordova/configure-ad)
+  - [Group Policy and Managing Accounts](https://github.com/mgcordova/group-policy) 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/mgcordova/azure-network-protocols)
+
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine](https://github.com/mgcordova/setting-up-a-vpn)
 
