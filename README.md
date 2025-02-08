@@ -14,6 +14,10 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine](https://github.com/mgcordova/setting-up-a-vpn)
 
+<h2>📄 Certifications</h2>
+
+  - [Information Technology CourseCareers Certification](https://imgur.com/a/hhHjE0j)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Manuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
