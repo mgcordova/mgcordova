@@ -12,7 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/mgcordova/azure-network-protocols)
 
 - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine](https://github.com/mgcordova/setting-up-a-vpn)
+  - [VPN Setup in a Virtual Machine](https://github.com/mgcordova/setting-up-a-vpn)
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
