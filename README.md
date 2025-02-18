@@ -18,6 +18,7 @@
 
 - <b>Cybersecurity Attacks</b>
   - [Phishing Attack Simulation with Gophish](https://github.com/mgcordova/gophish)
+  - [Cybersecurity Home Security Opeartions Center](https://github.com/mgcordova/homesoc)
 
 
 <h2>📄 Certifications</h2>
