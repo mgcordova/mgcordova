@@ -16,8 +16,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- <b>Cybersecurity Attacks</b>
+- <b>Cybersecurity Awareness & Simulation</b>
   - [Phishing Attack Simulation with Gophish](https://github.com/mgcordova/gophish)
+- <b>Cybersecurity Monitoring & Incident Response</b>
   - [Home Security Operations Center - Log Analysis / Threat Detection](https://github.com/mgcordova/homesoc)
 
 
