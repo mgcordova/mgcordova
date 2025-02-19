@@ -6,6 +6,12 @@
   - [osTicket: Prerequisites and Installation](https://github.com/mgcordova/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mgcordova/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mgcordova/ticket-lifecycle)
+
+- <b>Microsoft Azure</b>
+  - [Setting Up Active Directory within Azure VMs](https://github.com/mgcordova/configure-ad)
+  - [Group Policy and Managing Accounts](https://github.com/mgcordova/group-policy)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/mgcordova/azure-network-protocols)
+
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory within Azure VMs](https://github.com/mgcordova/configure-ad)
   - [Group Policy and Managing Accounts](https://github.com/mgcordova/group-policy) 
@@ -13,11 +19,11 @@
 
 - <b>Virtual Private Network</b>
   - [VPN Setup in a Virtual Machine](https://github.com/mgcordova/setting-up-a-vpn)
-
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Cybersecurity Awareness & Simulation</b>
   - [Phishing Attack Simulation with Gophish](https://github.com/mgcordova/gophish)
+
 - <b>Cybersecurity Monitoring & Incident Response</b>
   - [Home Security Operations Center - Log Analysis / Threat Detection](https://github.com/mgcordova/homesoc)
 
