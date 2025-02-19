@@ -27,6 +27,9 @@
 - <b>Cybersecurity Monitoring & Incident Response</b>
   - [Home Security Operations Center - Log Analysis / Threat Detection](https://github.com/mgcordova/homesoc)
 
+- <b>Cybersecurity Vulnerability Management</b>
+  - [Vulnerability Management with Tenable](https://github.com/mgcordova/vulmanagement)
+
 
 <h2>📄 Certifications</h2>
 
