@@ -26,6 +26,7 @@
 
 - <b>Cybersecurity Monitoring & Incident Response</b>
   - [Home Security Operations Center - Log Analysis / Threat Detection](https://github.com/mgcordova/homesoc)
+  - [Home Elastic Stack SIEM - Security Event Monitoring & Incident Response](https://github.com/mgcordova/homesiem)
 
 - <b>Cybersecurity Vulnerability Management (WIP)</b>
   - [Vulnerability Management with Tenable](https://github.com/mgcordova/vulmanagement)
